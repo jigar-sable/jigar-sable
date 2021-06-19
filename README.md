@@ -23,4 +23,6 @@
   </tr>
 </table>
 
+<div align="center">
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jigar-sable&theme=dark" alt="jigar-sable" /></p>
+  </div>
