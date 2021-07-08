@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **Java, DBMS, MySQL, HTML, CSS, JavaScript, PHP**
 
-- 👨‍💻 All of my projects are available at **<a href="https://lifecodess.cf" target="_blank">Portfolio</a>**
+- 👨‍💻 Check out my personal portfolio : **<a href="https://lifecodess.cf" target="_blank">Portfolio</a>**
 
 <h3 align="left">Connect with me:</h3>
 <div align="left">
