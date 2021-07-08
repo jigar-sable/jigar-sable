@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **jigarsable21@gmail.com**
 
-- 👨‍💻 All of my projects are available at **https://lifecodess.cf**
+- 👨‍💻 All of my projects are available at **<a href="https://lifecodess.cf" target="_blank">Portfolio</a>**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
