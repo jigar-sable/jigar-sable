@@ -1,11 +1,13 @@
-<h1 align="center">Hi 👋, I'm Jigar Sable</h1>
+<h1 align="center">Hi 👋, I'm <a href="https://www.linkedin.com/in/jigar-sable/" target="_blank"> Jigar Sable </a></h1>
 <h3 align="center">A passionate web and app developer</h3>
 
-- 🌱 I’m currently learning **React, Flutter, Kotlin, Firebase**
+- 🌱 I’m currently learning **React, MongoDB, Firebase**
 
 - 💬 Ask me about **Java, DBMS, MySQL, HTML, CSS, JavaScript, PHP**
 
 - 📫 How to reach me **jigarsable21@gmail.com**
+
+- 👨‍💻 All of my projects are available at **https://lifecodess.cf**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
