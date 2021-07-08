@@ -28,3 +28,4 @@
 <div align="center">
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jigar-sable&theme=dark" alt="jigar-sable" /></p>
   </div>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jigar-sable&label=Profile%20views&color=6805D3&style=flat" alt="jigar-sable" /> </p>
