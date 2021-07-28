@@ -3,9 +3,11 @@
 
 - 🌱 I’m currently learning **React, MongoDB, Firebase**
 
-- 💬 Ask me about **Java, DBMS, MySQL, HTML, CSS, JavaScript, PHP**
+- 💬 Ask me about **Java, DBMS, MySQL, Web Development**
 
 - 👨‍💻 Check out my personal portfolio : **<a href="https://lifecodess.cf" target="_blank">Portfolio</a>**
+
+- 😄 Pronouns: He/His
 
 <h3 align="left">Connect with me:</h3>
 <div align="left">
@@ -56,4 +58,4 @@
 <div align="center">
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jigar-sable&theme=dark" alt="jigar-sable" /></p>
   </div>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jigar-sable&label=Profile%20views&color=6805D3&style=flat" alt="jigar-sable" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jigar-sable&label=Profile%20Views&color=6805D3&style=flat" alt="jigar-sable" /> </p>
