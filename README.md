@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **Java, DBMS, MySQL, Web Development**
 
-- 👨‍💻 Check out my personal portfolio : **<a href="https://lifecodess.cf" target="_blank">Portfolio</a>**
+- 👨‍💻 Check out my personal portfolio : **<a href="https://jigarsable.netlify.app/" target="_blank">Portfolio</a>**
 
 - 😄 Pronouns: He/His
 
