@@ -3,7 +3,7 @@
 
 - 👨‍💻 Full-Stack Developer based in Pune, India.
 - 📫 How to reach me: [jigarsable21@gmail.com](jigarsable21@gmail.com)
-- 📱 Crafted the [SPPU Prep](https://sppuprep.vercel.app) App, loved by **8000+** savvy learners on the [Play Store](https://play.google.com/store/apps/details?id=com.devcodes.sppuprep)
+- 📱 Crafted the [SPPU Prep](https://sppuprep.vercel.app) App, loved by **10000+** savvy learners on the [Play Store](https://play.google.com/store/apps/details?id=com.devcodes.sppuprep)
 - ⭐ Star-studded projects like [Flipkart](https://github.com/jigar-sable/flipkart-mern) and [Instagram](https://github.com/jigar-sable/instagram-mern), shining bright with **800+ stars**
 - 🔗 Rocking a cool **20k+ connections** on LinkedIn, let's connect!
 - 🚀 Development sparked my coding passion—now it's a lifelong affair! Dive into my digital journey in the [portfolio](https://jigarsable.vercel.app)! 💻❤️
